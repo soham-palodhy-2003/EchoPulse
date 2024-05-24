@@ -1,0 +1,272 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China Taiwan: Beijing really doesn't like Taiwan's new president",
+            "description": "The Chinese military says the exercises aimed to \"test its ability to seize power\" on the island.",
+            "url": "https://www.bbc.co.uk/news/articles/cd11n49enz2o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddad/live/10802f80-19a1-11ef-8810-7ddce6503835.jpg",
+            "publishedAt": "2024-05-24T10:52:20.6253884Z",
+            "content": "But no-one in Taiwan is particularly surprised. To them, the Chinese Communist Party (CCP) is rather predictable. When Mr Lais Democratic Progressive Party (DPP) won a third consecutive presidential … [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kabosu dies: Shiba inu dog was meme and face of Dogecoin",
+            "description": "Kabosu, a Japanese shiba inu, inspired the viral \"doge\" meme and became the face of Dogecoin cryptocurrency.",
+            "url": "https://www.bbc.co.uk/news/articles/czkkr8l7jjxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/52df/live/da4c7d90-19ac-11ef-af66-edd17488ddd3.png",
+            "publishedAt": "2024-05-24T10:22:15.8774424Z",
+            "content": "Kabosu, the dog behind the \"doge\" meme, has died after 14 years of internet fame, her owner has said.\r\nThe Japanese shiba inu inspired a generation of online jokes and became the face of Dogecoin cry… [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Heat in India: North India boils as temperatures near 50C",
+            "description": "Parts of northern India are experiencing a brutal heatwave, with temperatures crossing 48C.",
+            "url": "https://www.bbc.co.uk/news/articles/cyjj7y7zy74o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fdb7/live/147b0b30-199e-11ef-baa7-25d483663b8e.jpg",
+            "publishedAt": "2024-05-24T10:07:17.5952979Z",
+            "content": "On Wednesday, Delhi's peak power demand reached 8,000MW, the highest in the history of the Indian capital.\r\nDelhi is experiencing a brutal heat spell, with temperatures hovering around 45-46C through… [+291 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Papua New Guinea: Many feared dead in massive landslide",
+            "description": "The landslide struck in the early hours, burying 100 houses in six highland villages.",
+            "url": "https://www.bbc.co.uk/news/articles/c4nnl8qg19jo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a99/live/c806d250-1990-11ef-b6ee-bdb02dc7c7a5.jpg",
+            "publishedAt": "2024-05-24T09:37:22.220505Z",
+            "content": "A massive landslide is feared to have killed many after it struck six remote villages in Papua New Guinea, local officials and aid agencies said.\r\nThe landslide buried more than 100 homes after it st… [+1592 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gaza war: Three more Israeli hostages' bodies found",
+            "description": "The three male victims were among 252 people taken hostage when Hamas attacked Israel on 7 October.",
+            "url": "https://www.bbc.co.uk/news/articles/cjrr9wqjnveo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0d74/live/c57a0060-19a5-11ef-baa7-25d483663b8e.jpg",
+            "publishedAt": "2024-05-24T09:07:20.5014787Z",
+            "content": "The dead hostages were among 252 people who were taken captive when Hamas gunmen attacked Israel on 7 October, killing about 1,200 people.\r\nThere are about 130 still held in Gaza, Israel says. \r\nHana… [+705 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "USS Harder: WW2 submarine wreck found off Philippines",
+            "description": "The USS Harder sank Japanese ships in audacious missions during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/ceqq8gn014xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5290/live/48fccb90-198b-11ef-a00e-cb639da85dd6.jpg",
+            "publishedAt": "2024-05-24T07:52:14.0169385Z",
+            "content": "The wreckage of a US Navy submarine that sank the most Japanese warships during World War Two has been found in the South China Sea, some 80 years after it was sunk by enemy forces.\r\nThe USS Harder w… [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elon Musk says he opposes US tariffs on Chinese electric vehicles",
+            "description": "He previously warned Chinese car makers would \"demolish\" rivals if there were no trade barriers.",
+            "url": "https://www.bbc.co.uk/news/articles/cq55zd2xjreo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/200a/live/29096530-197e-11ef-b109-d7399a006ab0.jpg",
+            "publishedAt": "2024-05-24T03:52:19.1825494Z",
+            "content": "Tesla boss Elon Musk says he opposes US tariffs on Chinese electric vehicles (EVs), just days after President Joe Biden quadrupled levies on EVs imported from China.\r\n\"Neither Tesla nor I asked for t… [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sean Kingston: Police raid home of singer accused of not paying for huge TV",
+            "description": "A company claims Sean Kingston did not fully pay for a 232-inch television and sound system.",
+            "url": "https://www.bbc.co.uk/news/articles/cjllzkzewgno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73d8/live/f46c0b50-1934-11ef-ba00-37bcc11aa4c3.jpg",
+            "publishedAt": "2024-05-24T03:37:17.134484Z",
+            "content": "In court documents seen by the BBC, Ver Ver Entertainment claims Mr Kingston contacted the company over social media in September 2023 to purchase a \"232-inch Colossal TV, coupled with a robust sound… [+775 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Majorca building collapse: Two dead and at least 12 injured, rescuers say",
+            "description": "At least two people die and 12 are injured after a restaurant collapsed in Majorca, emergency services say.",
+            "url": "https://www.bbc.co.uk/news/articles/cldd222zn4po",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f436/live/babb43c0-1944-11ef-965b-f782a3c6e70b.jpg",
+            "publishedAt": "2024-05-23T21:07:15.6033563Z",
+            "content": "At least two people have died and 12 are injured after a two-storey building collapsed in Majorca, emergency services say.\r\nSpanish media reports say the building was a restaurant on the beach in Pal… [+258 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pope clears way for 'God's influencer' to become a saint",
+            "description": "Carlo Acutis, who was born in London, is set to become the first millennial to be canonised.",
+            "url": "https://www.bbc.co.uk/news/articles/cd11kyy58dgo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5cae/live/f27e9c90-191b-11ef-9b6b-6f2320ba1a46.jpg",
+            "publishedAt": "2024-05-23T17:37:10.8697095Z",
+            "content": "As well as designing websites for his parish and school, he became known for launching a website seeking to document every reported Eucharistic miracle, which was launched days before his death.\r\nMr … [+1063 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Iran’s military says Raisi’s helicopter caught fire soon after crash and there was no sign of attack",
+            "description": "The helicopter carrying Iran’s late President Ebrahim Raisi caught fire soon after it crashed into a mountain and there was no sign it was attacked, state med...",
+            "url": "https://www.nbcnews.com/news/world/iran-raisis-helicopter-caught-fire-crash-no-sign-attack-rcna153880",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240520-iran-raisi-helicopter-crash-mn-0620-0b4c10.jpg",
+            "publishedAt": "2024-05-24T12:00:21.000000Z",
+            "content": "The helicopter carrying Iran’s late President Ebrahim Raisi caught fire soon after it crashed into a mountain and there was no sign it was attacked, state med..."
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Iran’s military says Raisi’s helicopter caught fire soon after crash and there was no sign of attack",
+            "description": "The helicopter carrying Iran’s late President Ebrahim Raisi caught fire soon after it crashed into a mountain and there was no sign it was attacked, state med...",
+            "content": "The helicopter carrying Iran’s late President Ebrahim Raisi caught fire soon after it crashed into a mountain and there was no sign it was attacked, state med...",
+            "url": "https://www.nbcnews.com/news/world/iran-raisis-helicopter-caught-fire-crash-no-sign-attack-rcna153880",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240520-iran-raisi-helicopter-crash-mn-0620-0b4c10.jpg",
+            "published_at": "2024-05-24T12:00:21.000000Z"
+        },
+        {
+            "source": {
+                "id": "cnbc-news",
+                "name": "CNBC News"
+            },
+            "title": "Oil prices hit three-month lows, head for weekly loss as summer driving season kicks off",
+            "description": "WTI and Brent are on pace for a weekly loss of about 4% and 3%, respectively.",
+            "keywords": "Markets, Breaking News: Markets, Oil and Gas, Investment strategy, WTI Crude (Mar'23), Natural Gas (Mar'23), ICE Brent Crude (Apr'23), Russia, United States, business news",
+            "content": "Crude oil futures fell to three-month lows on Friday and are heading to a weekly loss as summer driving season gets underway with the Memorial Day holiday.\n\nU.S...",
+            "url": "https://www.cnbc.com/2024/05/24/oil-prices-hit-three-month-lows-head-for-weekly-loss-as-summer-driving-season-kicks-off.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107413225-1715341428906-gettyimages-2151363816-01-l1011113-_ommtgwfg.jpeg?v=1715341457&w=1920&h=1080",
+            "published_at": "2024-05-24T11:59:13.000000Z"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "title": "India’s island neighbor to adopt its payment system despite political spat",
+            "description": "The Maldives is planning to adopt India’s RuPay card payment system to boost the tourism industry",
+            "content": "The tourism-dependent Maldives is planning to put in place the RuPay network\n\nThe Maldives, a luxury tourism hotspot in the Indian Ocean, is gearing up to adopt...",
+            "url": "https://www.rt.com/india/598181-indias-island-neighbor-to-adopt/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2024.05/article/6650789c85f54020a317e507.jpg",
+            "published_at": "2024-05-24T11:54:35.000000Z"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "title": "Abortion clinics up the East Coast see longer wait times after Florida law",
+            "description": "Survey offers first-of-its-kind look at practical impact of Florida law banning most abortions after six weeks of pregnancy.",
+            "content": "Survey offers first-of-its-kind look at practical impact of Florida law that banned most abortions on May 1.\n\nClinics up the East Coast have seen a surge in pat...",
+            "url": "https://www.washingtonpost.com/nation/2024/05/24/abortion-clinics-wait-time-florida-law/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JQU6UDPGYBCQ7HEQBJ6LGYOOJA_size-normalized.jpg&w=1440",
+            "published_at": "2024-05-24T11:50:32.000000Z"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "title": "British neonatal nurse convicted of killing 7 babies loses her bid to appeal",
+            "description": "A British neonatal nurse who was convicted of murdering seven babies and the attempted murder of six others has lost her bid to appeal.",
+            "content": "Create your free profile or log in to save this article\n\nCreate your free profile or log in to save this article\n\nA British neonatal nurse who was convicted of ...",
+            "url": "https://www.nbcnews.com/news/world/lucy-letby-neonatal-nurse-babies-murder-appeal-denied-rcna153879",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230818-Lucy-Letby-2-ew-1011a-62fdc8.jpg",
+            "published_at": "2024-05-24T11:45:14.000000Z"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "FOX News"
+            },
+            "title": "DOJ's Office of Inspector General takes heat for allegedly 'targeting political opponents'",
+            "description": "The Office of Inspector General at the Justice Department is facing allegations of political bias in a Freedom of Information Act request.",
+            "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a val...",
+            "url": "https://www.foxnews.com/politics/dojs-office-inspector-general-takes-heat-allegedly-targeting-political-opponents",
+            "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/mkeh.jpg",
+            "published_at": "2024-05-24T11:43:19.000000Z"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "title": "Samuel Alito’s Opinions Are Just as Upside-Down as His Flag",
+            "description": "The Nation Magazine",
+            "content": "Politics / Samuel Alito’s Opinions Are Just as Upside-Down as His Flag In a majority opinion rubber-stamping South Carolina’s racist Congressional map, Alit...",
+            "url": "https://www.thenation.com/article/politics/alito-supreme-court-south-carolina-map/",
+            "image_url": "https://www.thenation.com/wp-content/uploads/2024/05/AP24143840789003.jpg",
+            "published_at": "2024-05-24T11:40:33.000000Z"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "FOX News"
+            },
+            "title": "DOJ's inspector general takes heat for allegedly 'targeting political opponents' and more top headlines",
+            "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+            "content": "Good morning and welcome to Fox News’ morning newsletter, Fox News First. Subscribe now to get Fox News First in your email. And here's what you need to know ...",
+            "url": "https://www.foxnews.com/us/doj-inspector-general-takes-heat-targeting-political-opponents-more-top-headlines",
+            "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/1-a-Michael-Horowitz-a.jpg",
+           
+            "published_at": "2024-05-24T11:40:29.000000Z"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "title": "U.S. Documentary Filmmakers And Execs Shake Off The Post-Boom Gloom & Ponder Life After The Golden Age",
+            "description": "U.S. Documentary Filmmakers And Execs Shake Off The Post-Boom Gloom & Ponder Life After The Golden Age",
+            "content": "Being away from home allows room for perspective, and for a group of U.S.-based documentary experts who made the trip to Cannes, the glass remains half full, de...",
+            "url": "https://deadline.com/2024/05/documentary-industy-ponders-life-after-the-golden-age-imagine-cinetic-submarine-cannes-1235928460/",
+            "image_url": "https://deadline.com/wp-content/uploads/2024/05/cannes_eec978.jpg?w=1024",
+            "published_at": "2024-05-24T11:38:18.000000Z"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "title": "Pope clears sainthood for millennial known as 'God’s influencer'",
+            "description": "Pope Francis has attributed a second miracle to an Italian teenager Carlo Acutis, who in his short life used his computer skills to spread the Catholic faith.",
+            "content": "Pope Francis has attributed a second miracle to an Italian teenager who in his short life used his computer skills to spread the Catholic faith, clearing the wa...",
+            "url": "https://www.nbcnews.com/news/world/pope-francis-gods-influencer-carlo-acutis-miracle-sainthood-millenial-rcna153878",
+            "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240524-carlo-acutis-mn-0730-eaf0ea.jpg",
+            "published_at": "2024-05-24T11:37:03.000000Z"
+        }
+    ]
+}
