@@ -96,4 +96,20 @@
   display: flex;
   justify-content: center; /* Center elements horizontally */
 }
+.container-button {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 20px;
+  background-color: #f8f9fa; 
+}
+.custom-btn {
+  padding: 5px 10px; 
+  font-size: 12px;   
+  color: white;
+  background-color: black; 
+}
+
+
 
