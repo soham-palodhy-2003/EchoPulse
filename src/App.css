@@ -92,3 +92,8 @@
     gap: 10px;
   }
 }
+.my-3 {
+  display: flex;
+  justify-content: center; /* Center elements horizontally */
+}
+
