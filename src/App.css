@@ -112,8 +112,19 @@
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* Center cards horizontally */
+  justify-content: center; 
 }
+.card {
+
+  display: flex;
+  flex-direction: column;
+  width: 400px; 
+}
+
+.card-img-top {
+  flex: 1 1 auto; 
+}
+
 
 /* Custom Styles */
 .container-button {
