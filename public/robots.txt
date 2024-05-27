@@ -1,3 +1,14 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+<Route path='/General'><News pageSize = {8} country = "in" category = "sports"/></Route>
+<Route path='/Health'><News pageSize = {8} country = "in" category = "sports"/></Route>
+<Route path='/Entertainment'><News pageSize = {8} country = "in" category = "sports"/></Route>
+<Route path='/Business'><News pageSize = {8} country = "in" category = "sports"/></Route>
+<Route path='/Sports'><News pageSize = {8} country = "in" category = "sports"/></Route>
+<Route path='/Technology'><News pageSize = {8} country = "in" category = "sports"/></Route>
+<Route path='/Science'><News pageSize = {8} country = "in" category = "sports"/></Route>
+
+
+<Route path='/business'><News pageSize = {8} country = "in" category = "sports"/></Route> 
